@@ -1,7 +1,5 @@
 Project 4:Ant Game
 
-Team Members: Eray Tufan
-
 
 In the anthill game, there are 10 different anthills, and these have 3 different ants. 
 Warrior ants fights against other ants which is not it's clan.
@@ -10,7 +8,7 @@ Builder ants builts rooms which creates ants consuming food.
 
 For the project I created 7 classes. 
 
-In the ant class, ants' movement is declared. Ants are checked so that they wouldn't go out of grid.
+In the ant class, ants' movement is declared. Ants' movements checked so that they wouldn't go out of grid.
 
 In anthill class, different types of ants are created. Rooms which are created by builder ants
 are only able to create a certain kind of ants. The ants only can be created depending on the food.
