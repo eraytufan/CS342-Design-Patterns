@@ -10,8 +10,6 @@ I also wrote the update method in  chatbot class because of the same reason.
 Update methods were exactly the same for 3 bots. If I wanted I could override the update method but
 was not necessary.
 
-I did not change the main method because the professor didn't want it. 
-
 User class is my subject class for the observer pattern. It implements observable and when user enters input,
 it notifies the observers.
 
