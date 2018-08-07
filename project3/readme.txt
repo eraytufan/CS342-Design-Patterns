@@ -2,7 +2,7 @@ In the program's card and deck classes, I created deck and cards. The cards
 are shuffled and can be dealt to the table.
  
 In APIProxy class, I wrote API methods to the website. So it can get the odds of the
-player, and winning cards from the server.
+player, and winning cards from the server using API.
 
 In PokerOddsProxy class, I used proxy pattern and used APIProxy class' methods. I also 
 checked the connection and if the data cannot be obtained by server, it handles the 
